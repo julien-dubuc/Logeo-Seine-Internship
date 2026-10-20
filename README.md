@@ -1,10 +1,13 @@
 
 
+
+
+
 # Logeo-Seine-Internship
 
 **Financial analysis of real estate projects & construction site monitoring at a social housing provider.**
 
-<video src="https://github.com/user-attachments/assets/244ab386-96a6-4c03-94e5-51979295c203" width="600" controls="controls"></video>
+<video src="https://github.com/user-attachments/assets/beb49eaa-9a43-406f-a56e-afba8ed97060" width="600" controls="controls"></video>
 
 This repository contains the deliverables, analyses and documentation produced during my first-year engineering internship at the **Technical Department of Logeo Seine** (Groupe ActionLogement), in Le Havre, France, from June 16 to July 16, 2025.
 
