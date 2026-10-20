@@ -23,11 +23,10 @@ This work gave the technical team a synthetic, comparable view of the costs of i
 
 ## 🗂️ Repository Structure
 
-* 📁 **`Report/`** : Full internship report (PDF), including the non-plagiarism statement and evaluation form.
-* 📁 **`Financial_Analysis/`** : Excel tables and charts for new-build, renovation and acquisition/upgrade operations, plus summary tables.
-* 📁 **`Construction_Sites/`** : Photos and visit notes (Octeville, Aplemont, Beuzeville, Port-Jérôme-sur-Seine).
-* 📁 **`Logistics/`** : Documents related to key labelling, badge management and snag tracking.
-* 📁 **`Appendices/`** : Administrative documents and additional photos.
+* 📁 ** Full internship report (PDF), including the non-plagiarism statement and evaluation form.
+* 📁 **`Financial_Analysis`** : Excel tables and charts for new-build, renovation and acquisition/upgrade operations, plus summary tables.
+* 📁 ** Photos and visit notes (Octeville, Aplemont, Beuzeville, Port-Jérôme-sur-Seine).
+* 📁 ** Documents related to key labelling, badge management and snag tracking.
 
 ## 🛠️ Tools Used
 
